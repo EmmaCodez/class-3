@@ -102,3 +102,5 @@ footer{
     padding: 30px;
     font-size: 15px;
 }
+html, body{width: 100vw;
+    height:100vh;}
